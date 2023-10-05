@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👨‍💻 Web Developer | 🧑‍🎓 Bachelor's Computer Science | Front-end focused<br><br>🤝 Founding Head of tenacity.social<br><br>💻 Skills: JavaScript | React | Node.js | GraphQL | Solidity<br><br>📚 Learning: AI | Web3 | Blockchain | Dapp Development<br><br>🚀 Passionate about open source, decentralization and emerging technologies<br><br>🥳 Hobbies: Gaming 🎮 | Sports ⚽️ | Music 🎧<br><br>🙋 Always looking to collaborate and help others learn!
+👨‍💻 Web Developer | 🧑‍🎓 Bachelor's Computer Science | Front-end focused<br><br>🤝 Founding Head of <a href="https://tenacity.social">Tenacity</a>l<br><br>💻 Skills: JavaScript | React | Node.js | GraphQL | Solidity<br><br>📚 Learning: AI | Web3 | Blockchain | Dapp Development<br><br>🚀 Passionate about open source, decentralization and emerging technologies<br><br>🥳 Hobbies: Gaming 🎮 | Sports ⚽️ | Music 🎧<br><br>🙋 Always looking to collaborate and help others learn!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emsoumik&label=Profile%20views&color=0e75b6&style=flat" alt="emsoumik" /> </p>
 
