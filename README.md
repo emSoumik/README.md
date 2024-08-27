@@ -11,10 +11,10 @@
 
 👨‍💻 Web Developer | 🧑‍🎓 Bachelor's Computer Science | Front-end focused<br><br>🤝 Founding Head of <a href="https://tenacity.social">Tenacity</a>l<br><br>💻 Skills: JavaScript | React | Node.js | GraphQL | Solidity<br><br>📚 Learning: AI | Web3 | Blockchain | Dapp Development<br><br>🚀 Passionate about open source, decentralization and emerging technologies<br><br>🥳 Hobbies: Gaming 🎮 | Sports ⚽️ | Music 🎧<br><br>🙋 Always looking to collaborate and help others learn!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emsoumik&label=Profile%20views&color=0e75b6&style=flat" alt="emsoumik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emSoumik&abbreviated=true&style=for-the-badge" alt="emsoumik" /> </p>
 
 ## Technologies
-<h3 align="left">Languages and Tools:</h3><div> <img src="https://skillicons.dev/icons?i=azure,bootstrap,,cpp,css,git,html,java,javascript,linux,mongodb,linux,nodejs,react,tailwind" alt="Skills" /> </div>
+<h3 align="left">Languages and Tools:</h3><div> <img src="https://skillicons.dev/icons?i=azure,bootstrap,cpp,css,git,html,java,javascript,linux,mongodb,linux,nodejs,react,tailwind" alt="Skills" /> </div>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=emSoumik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -23,6 +23,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=emSoumik&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=emSoumik&icon=0&color=9)](https://visitcount.itsvg.in)
